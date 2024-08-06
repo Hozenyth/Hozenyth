@@ -3,7 +3,7 @@
 
 - 🔭 Today I'm work as full stack developer.
 - 🌱 I’m currently learning Flutterflow and advanced topics about ASP.NET CORE / C#.
-- 😄 Pronouns: she/her.
+
   <br>
 
 <div style="display: inline_block"><br>
