@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me:
 
 
 - 🔭 Today I'm working as full stack developer.
