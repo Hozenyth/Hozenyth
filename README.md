@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 Today I'm work as full stack developer.
+- 🔭 Today I'm working as full stack developer.
 - 🌱 I’m currently learning Flutterflow and advanced topics about ASP.NET CORE / C#.
 
   <br>
