@@ -1,8 +1,8 @@
 ## About me:
 
 
-- 🔭 Today I'm working as full stack developer.
-- 🌱 I’m currently learning Flutterflow and advanced topics about ASP.NET CORE / C#.
+- 🔭 I’m currently working as a full stack developer.
+- 🌱 I’m diving deeper into Flutterflow and exploring advanced topics in ASP.NET CORE and C#.
 
   <br>
 
