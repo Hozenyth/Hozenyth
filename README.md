@@ -19,7 +19,10 @@
   <img align="center" alt="Hoze-Flutterflow" height="30" width="40" src="https://avatars.githubusercontent.com/u/74943865?s=280&v=4">
 </div>
   
-  ##
+  <br>
+  <br>
+  
+  ## 🔗 For more details about me, you can check here:
  
 <div> 
  
