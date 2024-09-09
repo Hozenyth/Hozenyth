@@ -1,7 +1,7 @@
 ## About me:
 
 - 👋 Hello, welcome to my gitHub!
-- 🔭 I’m Hozenyth currently working as a full stack developer.
+- 🔭 I’m currently working as a full stack developer.
 
 
   <br>
