@@ -1,8 +1,8 @@
 ## About me:
 
+- 👋 Hello, welcome to my gitHub!
+- 🔭 I’m Hozenyth currently working as a full stack developer.
 
-- 🔭 I’m currently working as a full stack developer.
-- 🌱 I’m diving deeper into Flutterflow and exploring advanced topics in ASP.NET CORE and C#.
 
   <br>
 
